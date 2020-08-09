@@ -33,3 +33,4 @@ Researchers state that combining clinical image features with laboratory results
 * Web Scraping
 * Data Visualization
 * Pandas and Numpy
+* Fastai
