@@ -16,3 +16,7 @@ Recent findings obtained using radiology imaging techniques suggest that such im
 
 In this project, a new model for automatic COVID-19 detection using raw chest X-ray images is presented. The proposed model is developed to provide accurate diagnostics for binary classification (COVID vs. No-Findings). This model produced a classification accuracy of 98.08% for binary classes.I implemented 17 convolutional layers and introduced different filtering on each layer.
 
+## VALIDITY :
+
+
+
