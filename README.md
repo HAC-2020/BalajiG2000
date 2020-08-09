@@ -2,13 +2,13 @@
 
 This project was prepared during the Hack Against Covid 2020 .
 
-## AUTOMATED COVID 19 PREDICTOR
+# AUTOMATED COVID 19 PREDICTOR
 
-## ABOUT :
+## ABOUT
 
 A neural network binary classifier which can predict the presence of COVID 19 using X-Ray image of chest. The proposed model is developed to provide accurate diagnostics for binary classification (COVID vs. No-Findings).
 
-## ABSTRACT :
+## ABSTRACT
 
 The novel coronavirus 2019 (COVID-2019), which first appeared in Wuhan city of China in December 2019, spread rapidly around the world and became a pandemic. It has caused a devastating effect on both daily lives, public health, and the global economy. It is critical to detect the positive cases as early as possible so as to prevent the further spread of this epidemic and to quickly treat affected patients. The need for auxiliary diagnostic tools has increased as there are no accurate automated toolkits available.
 
@@ -16,7 +16,7 @@ Recent findings obtained using radiology imaging techniques suggest that such im
 
 In this project, a new model for automatic COVID-19 detection using raw chest X-ray images is presented. The proposed model is developed to provide accurate diagnostics for binary classification (COVID vs. No-Findings). This model produced a classification accuracy of 98.08% for binary classes.I implemented 17 convolutional layers and introduced different filtering on each layer.
 
-## VALIDITY :
+## VALIDITY
 
 The most common test technique currently used for COVID-19 diagnosis is a real-time reverse transcription-polymerase chain reaction (RT-PCR). Chest radiological imaging such as computed tomography (CT) and X-ray have vital roles in early diagnosis and treatment of this disease . Due to the low RT-PCR sensitivity of 60%–70%, even if negative results are obtained, symptoms can be detected by examining radiological images of patients . It is stated that CT is a sensitive method to detect COVID-19 pneumonia, and can be considered as a screening tool with RT-PRC . CT findings are observed over a long interval after the onset of symptoms, and patients usually have a normal CT in the first 0–2 days . In a study on lung CT of patients who  survived COVID-19 pneumonia, the most significant lung disease is observed ten days after the onset of symptoms .
 
