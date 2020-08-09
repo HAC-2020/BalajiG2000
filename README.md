@@ -26,7 +26,12 @@ At the beginning of the pandemic, Chinese clinical centers had insufficient test
 
 Researchers state that combining clinical image features with laboratory results may help in early detection of COVID-19 . Radiologic images obtained from COVID-19 cases contain useful information for diagnostics. Some studies have encountered changes in chest X-ray and CT images before the beginning of COVID-19 symptoms. Significant discoveries have been realized by investigators in imaging studies of COVID-19.
 
+## Performance and Outcomes
+
+
+
 ## Technology Stack
+
 * Python
 * Deep Learning
 * Neural Networks
