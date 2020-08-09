@@ -30,3 +30,6 @@ Researchers state that combining clinical image features with laboratory results
 * Python
 * Deep Learning
 * Neural Networks
+* Web Scraping
+* Data Visualization
+* Pandas and Numpy
