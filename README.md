@@ -74,3 +74,6 @@ More number of tests performed can help identify more infected people and thus p
 We can add a multiple classifier in same Neural Network , and identify other diseases like pneumonia which gives a similar symptom to covid 19.
 For someone who is not an expert in medical imaging, it will be very difficult to detect with the naked eye if it is a positive case of COVID-19 or not. 
 I want to emphasize that the objective is for it to be a SUPPORT tool for doctors.
+
+### Presentation for Submission
+Link - https://drive.google.com/file/d/1Ydq4phgbO_IXn2MR_59AOZ0I2cjuiNL-/view?usp=sharing
