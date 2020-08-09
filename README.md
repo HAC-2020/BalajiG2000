@@ -34,3 +34,7 @@ Researchers state that combining clinical image features with laboratory results
 * Data Visualization
 * Pandas and Numpy
 * Fastai
+
+## Challenges Faced
+
+The typical clinical features of COVID-19 include fever, cough, sore throat, headache, fatigue, muscle pain, and shortness of breath which is similar to pneumonia . So it was hard to distinguish data sets between Covid and the latter. And I faced difficulties during feature extraction . Also it was bit harder to increase efficiency of the model.
