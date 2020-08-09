@@ -4,6 +4,8 @@ This project was prepared during the Hack Against Covid 2020 .
 
 # AUTOMATED COVID 19 PREDICTOR
 
+### Youtube - https://youtu.be/5VyS9jrvId8
+
 ## ABOUT
 
 A neural network binary classifier which can predict the presence of COVID 19 using X-Ray image of chest. The proposed model is developed to provide accurate diagnostics for binary classification (COVID vs. No-Findings).
