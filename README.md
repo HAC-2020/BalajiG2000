@@ -28,7 +28,23 @@ Researchers state that combining clinical image features with laboratory results
 
 ## Performance and Outcomes
 
+The model produced a classification accuracy of 98.08% for binary classes.
+A deep learning model is proposed for the automatic diagnosis of COVID-19. 
+The proposed model has an end-to-end architecture without using any feature extraction methods, and it requires raw chest X-ray images to return the diagnosis. 
+This model is trained with 125 chest X-ray images, which are not in a regular form and were obtained hastily. 
 
+## Problematic issues addressed
+Due to the increase in positive COVID-19 cases, unconfirmed cases and uncertainty, we found the following problems:
+1- Public health centers cannot test so many people for COVID-19 (a number that increases every day).
+2- The call centers are congested.
+3- Private laboratories charge between 5000 rs to 10000 rs for a screening test.
+
+
+## DATSET USED
+
+X-ray images obtained from two different sources were used for the diagnosis of COVID-19. 
+A COVID-19 X-ray image database was developed by Cohen JP  using images from various open access sources. This database is constantly updated with 3 researchers from different regions. 
+At present, there are 127 X-ray images diagnosed with COVID-19 in the database
 
 ## Technology Stack
 
@@ -43,3 +59,15 @@ Researchers state that combining clinical image features with laboratory results
 ## Challenges Faced
 
 The typical clinical features of COVID-19 include fever, cough, sore throat, headache, fatigue, muscle pain, and shortness of breath which is similar to pneumonia . So it was hard to distinguish data sets between Covid and the latter. And I faced difficulties during feature extraction . Also it was bit harder to increase efficiency of the model.
+
+## CONCLUSION
+
+Thoughtful implementation of this method can save a lot of time and money to the humanity and thus eliminating Covid 19 virus from the Earth .
+
+More number of tests performed can help identify more infected people and thus prevention of spreading and thus elimination of virus.
+
+## WHAT NEXT?
+
+We can add a multiple classifier in same Neural Network , and identify other diseases like pneumonia which gives a similar symptom to covid 19.
+For someone who is not an expert in medical imaging, it will be very difficult to detect with the naked eye if it is a positive case of COVID-19 or not. 
+I want to emphasize that the objective is for it to be a SUPPORT tool for doctors.
