@@ -35,8 +35,11 @@ This model is trained with 125 chest X-ray images, which are not in a regular fo
 
 ## Problematic issues addressed
 Due to the increase in positive COVID-19 cases, unconfirmed cases and uncertainty, we found the following problems:
+
 1- Public health centers cannot test so many people for COVID-19 (a number that increases every day).
+
 2- The call centers are congested.
+
 3- Private laboratories charge between 5000 rs to 10000 rs for a screening test.
 
 
