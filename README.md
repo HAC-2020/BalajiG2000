@@ -28,3 +28,4 @@ Researchers state that combining clinical image features with laboratory results
 
 ## Technology Stack
 * Python
+* Deep Learning
