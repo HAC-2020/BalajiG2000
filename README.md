@@ -20,3 +20,9 @@ In this project, a new model for automatic COVID-19 detection using raw chest X-
 
 The most common test technique currently used for COVID-19 diagnosis is a real-time reverse transcription-polymerase chain reaction (RT-PCR). Chest radiological imaging such as computed tomography (CT) and X-ray have vital roles in early diagnosis and treatment of this disease . Due to the low RT-PCR sensitivity of 60%–70%, even if negative results are obtained, symptoms can be detected by examining radiological images of patients . It is stated that CT is a sensitive method to detect COVID-19 pneumonia, and can be considered as a screening tool with RT-PRC . CT findings are observed over a long interval after the onset of symptoms, and patients usually have a normal CT in the first 0–2 days . In a study on lung CT of patients who  survived COVID-19 pneumonia, the most significant lung disease is observed ten days after the onset of symptoms .
 
+## HISTORY 
+
+At the beginning of the pandemic, Chinese clinical centers had insufficient test kits, which are also producing a high rate of falsenegative results, so doctors are encouraged to make a diagnosis only based on clinical and chest CT results . CT is widely used for COVID-19 detection in countries such as Turkey, where a low number of test kits at onset of the pandemic were available.
+
+Researchers state that combining clinical image features with laboratory results may help in early detection of COVID-19 . Radiologic images obtained from COVID-19 cases contain useful information for diagnostics. Some studies have encountered changes in chest X-ray and CT images before the beginning of COVID-19 symptoms. Significant discoveries have been realized by investigators in imaging studies of COVID-19.
+
